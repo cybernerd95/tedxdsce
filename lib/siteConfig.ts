@@ -62,7 +62,7 @@ export const eventInfo = {
 
 export const heroCopy = {
   eyebrow: "TEDx DSCE · 2026",
-  title: "Ideas Worth Spreading",
+  title: "The Idea Effect",
   lede: LOREM_MED,
   primaryCta: "Register Interest",
   secondaryCta: "Stay Updated",
@@ -319,16 +319,14 @@ export const team: TeamMember[] = [
 ];
 
 export const sponsors = [
-  { name: "Lorem Labs", tier: "Title" },
-  { name: "Ipsum Co.", tier: "Platinum" },
-  { name: "Dolor Inc.", tier: "Platinum" },
-  { name: "Sit Studios", tier: "Gold" },
-  { name: "Amet Works", tier: "Gold" },
-  { name: "Consectetur Group", tier: "Gold" },
-  { name: "Elit Ventures", tier: "Silver" },
-  { name: "Magna Media", tier: "Silver" },
-];
+  { name: "Decathlon", tier: "Title" },
 
+  { name: "Pizza One", tier: "Gold" },
+  { name: "Protein Bowl", tier: "Gold" },
+  { name: "Broffels", tier: "Gold" },
+  { name: "WOW Momos", tier: "Gold" },
+  { name: "Vani Villas", tier: "Gold" },
+];
 export const faqs = [
   { 
     question: "What is TEDxDSCE?", 
