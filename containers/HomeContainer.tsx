@@ -44,7 +44,7 @@ export function HomeContainer() {
       <AboutPreview
         eyebrow="About"
         title="TEDXDSCE"
-        blurb="TEDxDSCE 2026 brings together innovators, thinkers, and creators to explore ideas that inspire change and shape the future. Join us for a day of powerful talks and meaningful conversations."
+        blurb="Every revolution, every breakthrough, and every masterpiece started as a simple, fragile thought in someone's mind. But what happens when that thought is shared? At TEDxDSCE, we are exploring The Idea Effect; the powerful, unstoppable ripple that occurs when a single concept collides with the real world. Join us as we bring together a diverse spectrum of visionaries to uncover how ideas act as the ultimate catalysts for change across technology, art, science, and society."
         href="/about"
       />
 
