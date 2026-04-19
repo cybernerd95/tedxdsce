@@ -63,7 +63,7 @@ export const eventInfo = {
 export const heroCopy = {
   eyebrow: "TEDx DSCE · 2026",
   title: "The Idea Effect",
-  lede: LOREM_MED,
+  lede: " Every revolution, every breakthrough, and every masterpiece started as a simple, fragile thought in someone's mind. But what happens when that thought is shared? At TEDxDSCE, we are exploring The Idea Effect; the powerful, unstoppable ripple that occurs when a single concept collides with the real world. Join us as we bring together a diverse spectrum of visionaries to uncover how ideas act as the ultimate catalysts for change across technology, art, science, and society.",
   primaryCta: "Register Interest",
   secondaryCta: "Stay Updated",
 };
@@ -109,8 +109,13 @@ export const aboutPageContent = {
       eyebrow: "2026 Theme",
       title: "The Idea Effect",
       body: [
-        "At TEDxDSCE 2026, we explore The Idea Effect — how a single idea can spark change, influence minds, and create lasting impact. Join us for a day of powerful talks, bold perspectives, and transformative stories.",
-        "From innovation and entrepreneurship to personal growth and storytelling, this theme celebrates the courage to think differently and the drive to turn ideas into action.",
+        "Ideas are the most powerful forces on the planet. They are weightless, yet they can move mountains. They are invisible, yet they build the reality we live in.",
+
+        "The Idea Effect is the phenomenon of intellectual momentum — the butterfly effect applied to human innovation. A concept formed in a quiet room can disrupt a global industry. A shift in perspective can rewrite history. A single solution can impact lives across the world.",
+
+        "This summer, TEDxDSCE explores the pure mechanics of inspiration and impact. Our stage brings together a vibrant collision of worlds — from deep tech and engineering to art, culture, and human resilience.",
+
+        "We aren’t just celebrating ideas; we are examining the shockwaves they create. From the first spark of thought to the fire of execution, this is where ideas become reality."
       ],
     },
   ],
